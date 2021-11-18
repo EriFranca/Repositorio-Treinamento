@@ -1,6 +1,6 @@
-<!--<h1 align="center">Repositorio Treinamento 📚</h1>-->
+<h1 align="center">Repositorio Treinamento 📚</h1>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues">
     <img src="https://img.shields.io/github/issues/lucasrmagalhaes/desafios-DIO" /> 
   </a>
@@ -16,7 +16,7 @@
    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/lucasrmagalhaes/desafios-DIO" /> 
   </a>
-</p>
+</p>-->
 
 <!-- C Sharp -->
 <details>
