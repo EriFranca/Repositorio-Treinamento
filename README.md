@@ -18,9 +18,9 @@
   </a>
 </p>
 
-<!-- C Shar -->
+<!-- C Sharp -->
 <details>
-    <summary><strong>C#</strong></summary>
+    <summary><strong>C</strong></summary>
     <br />
     <div align="left">
         <!-- Introdução a Programação com C# -->
