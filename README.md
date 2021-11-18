@@ -1,12 +1,12 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/EriFranca/Repositorio-Treinamento)
+![Lines of code](https://img.shields.io/tokei/lines/github/EriFranca/Repositorio-Treinamento)
 <h1 align="center"><strong>Repositorio Treinamento📚</strong></h1>
 <p align="center">
   <a><b>C# | JAVA | JAVASCRIPT | KOTLIN | RUBY </b></a>
 </p>  
-<!--<p align="center">
-  <a href="https://github.com/EriFranca/Repositorio-Treinamento/issues">
-    <img src="https://img.shields.io/github/issues/lucasrmagalhaes/desafios-DIO" /> 
-  </a>
-    
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/EriFranca/Repositorio-Treinamento" /> 
+    <img src="https://img.shields.io/tokei/lines/github/EriFranca/Repositorio-Treinamento" />  
   <a href="https://github.com/EriFranca/Repositorio-Treinamento/network/members">
     <img src="https://img.shields.io/github/forks/lucasrmagalhaes/desafios-DIO" /> 
   </a>
@@ -18,7 +18,7 @@
    <a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/lucasrmagalhaes/desafios-DIO" /> 
   </a>
-</p>-->
+</p>
 
 
 <!-- C Sharp -->
