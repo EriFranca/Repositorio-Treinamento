@@ -1,6 +1,6 @@
 <h1 align="center">Repositorio Treinamento 📚</h1>
 <p align="center">
-  <a>▶⏸⏯⏹⏺⏭⏮⏩⏪🔀🔁</a>
+  <a><strong)▶⏸⏯⏹⏺⏭⏮⏩⏪🔀🔁</strong></a>
 </p>  
 <!--<p align="center">
   <a href="https://github.com/EriFranca/Repositorio-Treinamento/issues">
