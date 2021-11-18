@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<!-- C Sharp -->
+<!-- C Shar -->
 <details>
     <summary><strong>C#</strong></summary>
     <br />
