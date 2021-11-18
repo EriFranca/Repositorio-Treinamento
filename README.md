@@ -186,19 +186,19 @@
             <tr>
                 <td align="center">1</td>
                 <td>Crescimento Populacional</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/09.%20Desafios%20Intermedi%C3%A1rios%20C%23/1.%20Crescimento%20Populacional/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/09.%20Desafios%20Intermedi%C3%A1rios%20C%23/1.%20Crescimento%20Populacional/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Preenchimento de Vetor I</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/09.%20Desafios%20Intermedi%C3%A1rios%20C%23/2.%20Preenchimento%20de%20Vetor%20I/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/09.%20Desafios%20Intermedi%C3%A1rios%20C%23/2.%20Preenchimento%20de%20Vetor%20I/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Trigo no Tabuleiro</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/09.%20Desafios%20Intermedi%C3%A1rios%20C%23/3.%20Trigo%20no%20Tabuleiro/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/09.%20Desafios%20Intermedi%C3%A1rios%20C%23/3.%20Trigo%20no%20Tabuleiro/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             </tr>
@@ -393,19 +393,19 @@
             <tr>
                 <td align="center">1</td>
                 <td>Distância</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/primeiros_desafios_em_c%23/Desafios/C%20Sharp/10.%20Primeiros%20desafios%20em%20C%23/1.%20Dist%C3%A2ncia/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/10.%20Primeiros%20desafios%20em%20C%23/1.%20Dist%C3%A2ncia/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Diferença</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/primeiros_desafios_em_c%23/Desafios/C%20Sharp/10.%20Primeiros%20desafios%20em%20C%23/2.%20Diferen%C3%A7a/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/10.%20Primeiros%20desafios%20em%20C%23/2.%20Diferen%C3%A7a/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Média 1</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/primeiros_desafios_em_c%23/Desafios/C%20Sharp/10.%20Primeiros%20desafios%20em%20C%23/3.%20M%C3%A9dia%201/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/10.%20Primeiros%20desafios%20em%20C%23/3.%20M%C3%A9dia%201/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
