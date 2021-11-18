@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/license/lucasrmagalhaes/desafios-DIO" /> 
   </a>
 </p>-->
-<p align="center>▶⏸⏯⏹⏺⏭⏮⏩⏪🔀🔁</p>
+
 
 <!-- C Sharp -->
 <details>
