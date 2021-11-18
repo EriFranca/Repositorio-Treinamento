@@ -1,9 +1,9 @@
 <h1 align="center">Repositorio Treinamento 📚</h1>
 
-#<p align="center">
-#  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues">
-#    <img src="https://img.shields.io/github/issues/lucasrmagalhaes/desafios-DIO" /> 
-#  </a>
+<p align="center">
+  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/issues">
+    <img src="https://img.shields.io/github/issues/lucasrmagalhaes/desafios-DIO" /> 
+  </a>
     
   <a href="https://github.com/lucasrmagalhaes/desafios-DIO/network/members">
     <img src="https://img.shields.io/github/forks/lucasrmagalhaes/desafios-DIO" /> 
