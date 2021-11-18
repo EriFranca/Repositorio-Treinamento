@@ -73,19 +73,19 @@
             <tr>
                 <td align="center">1</td>
                 <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/07.%20%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/1.%20Dividindo%20X%20por%20Y/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/07.%20%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/1.%20Dividindo%20X%20por%20Y/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Bazinga!</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/07.%20%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/2.%20Bazinga!/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/07.%20%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/2.%20Bazinga!/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Coxinha de Bueno</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/07.%20%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/3.%20Coxinha%20de%20Bueno/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/07.%20%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/3.%20Coxinha%20de%20Bueno/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
         </table>
         <!-- Introdução a Programação com .NET -->
@@ -106,19 +106,19 @@
             <tr>
                 <td align="center">1</td>
                 <td>Cálculo de Viagem</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/04.%20Desenvolvendo%20algoritmos%20com%20C%23/1.%20C%C3%A1lculo%20de%20Viagem/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/04.%20Desenvolvendo%20algoritmos%20com%20C%23/1.%20C%C3%A1lculo%20de%20Viagem/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Álbum da Copa</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/04.%20Desenvolvendo%20algoritmos%20com%20C%23/2.%20%C3%81lbum%20da%20Copa/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/04.%20Desenvolvendo%20algoritmos%20com%20C%23/2.%20%C3%81lbum%20da%20Copa/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Animal</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/04.%20Desenvolvendo%20algoritmos%20com%20C%23/3.%20Animal/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/04.%20Desenvolvendo%20algoritmos%20com%20C%23/3.%20Animal/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
@@ -140,31 +140,31 @@
             <tr>
                 <td align="center">1</td>
                 <td>Média 1</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/06.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/1.%20M%C3%A9dia%201/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/06.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/1.%20M%C3%A9dia%201/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Crescimento Populacional</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/06.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/2.%20Crescimento%20Populacional/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/06.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/2.%20Crescimento%20Populacional/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Bazinga!</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/06.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/3.%20Bazinga!/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/06.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/3.%20Bazinga!/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">4</td>
                 <td>Tempo de um Evento</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/06.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/4.%20Tempo%20de%20um%20Evento/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/06.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/4.%20Tempo%20de%20um%20Evento/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Comunicação em Piralândia</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/06.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/5.%20Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/06.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/5.%20Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
@@ -279,19 +279,19 @@
             <tr>
                 <td align="center">1</td>
                 <td>Consumo Médio do Automóvel</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/05.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/1.%20Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/05.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/1.%20Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>DDD</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/05.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/2.%20DDD/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/05.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/2.%20DDD/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Aumento de Salário</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/05.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/3.%20Aumento%20de%20Sal%C3%A1rio/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/05.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/3.%20Aumento%20de%20Sal%C3%A1rio/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
@@ -313,31 +313,31 @@
             <tr>
                 <td align="center">1</td>
                 <td>Quadrado e ao Cubo</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/03.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/1.%20Quadrado%20e%20ao%20Cubo/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/03.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/1.%20Quadrado%20e%20ao%20Cubo/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>A Corrida de Tartarugas</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/03.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/2.%20A%20Corrida%20de%20Tartarugas/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/03.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/2.%20A%20Corrida%20de%20Tartarugas/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Ultrapassando V</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/03.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/3.%20Ultrapassando%20V/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/03.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/3.%20Ultrapassando%20V/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">4</td>
                 <td>Validação de Nota</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/03.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/4.%20Valida%C3%A7%C3%A3o%20de%20Nota/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/03.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/4.%20Valida%C3%A7%C3%A3o%20de%20Nota/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Pedro Bento e o Mundo de OZ</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/03.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/5.%20Pedro%20Bento%20e%20o%20Mundo%20de%20OZ/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/03.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/5.%20Pedro%20Bento%20e%20o%20Mundo%20de%20OZ/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
@@ -359,19 +359,19 @@
             <tr>
                 <td align="center">1</td>
                 <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/08.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/1.%20Coordenadas%20de%20um%20Ponto/README.md">Coordenadas de um Ponto</a></td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/08.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/1.%20Coordenadas%20de%20um%20Ponto/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/08.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/1.%20Coordenadas%20de%20um%20Ponto/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/08.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/2.%20Compras%20no%20Supermercado/README.md">Compras no Supermercado</a></td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/08.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/2.%20Compras%20no%20Supermercado/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/08.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/2.%20Compras%20no%20Supermercado/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/08.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/3.%20Pink%20e%20C%C3%A9rebro/README.md">Pink e Cérebro</a></td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/08.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/3.%20Pink%20e%20C%C3%A9rebro/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/08.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/3.%20Pink%20e%20C%C3%A9rebro/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
