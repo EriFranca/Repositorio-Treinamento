@@ -221,43 +221,43 @@
             <tr>
                 <td align="center">1</td>
                 <td>Hora da Corrida</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/02.%20Resolvendo%20Algoritmos/1.%20Hora%20da%20Corrida/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/02.%20Resolvendo%20Algoritmos/1.%20Hora%20da%20Corrida/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Cardápio Aéreo</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/02.%20Resolvendo%20Algoritmos/2.%20Card%C3%A1pio%20A%C3%A9reo/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/02.%20Resolvendo%20Algoritmos/2.%20Card%C3%A1pio%20A%C3%A9reo/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Pizza Antes do Final do Ano</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/02.%20Resolvendo%20Algoritmos/3.%20Pizza%20Antes%20do%20Final%20do%20Ano/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/02.%20Resolvendo%20Algoritmos/3.%20Pizza%20Antes%20do%20Final%20do%20Ano/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">4</td>
                 <td>Conversão de Tempo</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/02.%20Resolvendo%20Algoritmos/4.%20Convers%C3%A3o%20de%20Tempo/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/02.%20Resolvendo%20Algoritmos/4.%20Convers%C3%A3o%20de%20Tempo/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Idade em Dias</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/02.%20Resolvendo%20Algoritmos/5.%20Idade%20em%20Dias/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/02.%20Resolvendo%20Algoritmos/5.%20Idade%20em%20Dias/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">6</td>
                 <td>Tempo do Dobby</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/02.%20Resolvendo%20Algoritmos/6.%20Tempo%20do%20Dobby/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/02.%20Resolvendo%20Algoritmos/6.%20Tempo%20do%20Dobby/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">7</td>
                 <td>Rodízio de Cavalos e Carruagens</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/02.%20Resolvendo%20Algoritmos/7.%20Rod%C3%ADzio%20de%20Cavalos%20e%20Carruagens/solucao.cs">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/C%20Sharp/02.%20Resolvendo%20Algoritmos/7.%20Rod%C3%ADzio%20de%20Cavalos%20e%20Carruagens/solucao.cs">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
