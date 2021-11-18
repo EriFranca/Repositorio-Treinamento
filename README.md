@@ -436,31 +436,31 @@
             <tr>
                 <td align="center">1</td>
                 <td>Ordenando Números Pares e Ímpares</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/1.%20Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares/OrderingEvenNumbers.java">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/1.%20Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares/OrderingEvenNumbers.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Compras no Supermercado</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/2.%20Compras%20no%20Supermercado/SupermarketShopping.java">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/2.%20Compras%20no%20Supermercado/SupermarketShopping.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Uniformes de Final de Ano</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/3.%20Uniformes%20de%20Final%20de%20Ano/YearEndUniform.java">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/3.%20Uniformes%20de%20Final%20de%20Ano/YearEndUniform.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">4</td>
                 <td>Fila do Banco</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/4.%20Fila%20do%20Banco/BankQueue.java">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/4.%20Fila%20do%20Banco/BankQueue.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Gincana no Acampamento</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/5.%20Gincana%20no%20Acampamento/GymkhanaInTheCamp.java">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/5.%20Gincana%20no%20Acampamento/GymkhanaInTheCamp.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
@@ -481,31 +481,31 @@
             <tr>
                 <td align="center">1</td>
                 <td>Coração das Cartas</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/1.%20Cora%C3%A7%C3%A3o%20das%20Cartas/Main.java">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/1.%20Cora%C3%A7%C3%A3o%20das%20Cartas/Main.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Abreviando Posts do Blog</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/2.%20Abreviando%20Posts%20do%20Blog/Main.java">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/2.%20Abreviando%20Posts%20do%20Blog/Main.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Combinação de Strings</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/3.%20Combina%C3%A7%C3%A3o%20de%20Strings/Main.java">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/3.%20Combina%C3%A7%C3%A3o%20de%20Strings/Main.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">4</td>
                 <td>Hash Mágico</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/4.%20Hash%20M%C3%A1gico/Main.java">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/4.%20Hash%20M%C3%A1gico/Main.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">5</td>
                 <td>O Tabuleiro Secreto</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/5.%20O%20Tabuleiro%20Secreto/Main.java">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/5.%20O%20Tabuleiro%20Secreto/Main.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
@@ -526,19 +526,19 @@
             <tr>
                 <td align="center">1</td>
                 <td>Exibindo Números Pares</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/1.%20Exibindo%20N%C3%BAmeros%20Pares/solucao.java">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/Java/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/1.%20Exibindo%20N%C3%BAmeros%20Pares/solucao.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Idade em Dias</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/2.%20Idade%20em%20Dias/solucao.java">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/Java/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/2.%20Idade%20em%20Dias/solucao.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Notas da Prova</td>
-                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/3.%20Notas%20da%20Prova/solucao.java">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/tree/main/Java/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/3.%20Notas%20da%20Prova/solucao.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
