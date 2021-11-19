@@ -982,7 +982,7 @@
 
 <!-- Python -->
 <details>
-    <summary><Img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></summary>
+    <summary ><Img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></summary>
  <!-- Introdução a Programação com Python -->
         <table border=1>
             <tr>
