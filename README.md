@@ -1086,7 +1086,7 @@
 	    <tr>
                 <td align="center">1</td>
                 <td>Extremamente Básico</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/blob/main/Python/1001.%20Extremamente%20B%C3%A1sico/solu%C3%A7%C3%A3o.py">Código</a></td>
                 <td align="center">✅</td>
             </tr>
 </details>
