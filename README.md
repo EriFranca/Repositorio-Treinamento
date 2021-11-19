@@ -980,6 +980,33 @@
     </div>
 </details>
 
+<!-- Python -->
+<details>
+    <summary><Img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></summary>
+ <!-- Introdução a Programação com Python -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Introdução a Programação com Python</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+	    <tr>
+                <td align="center">1</td>
+                <td>Extremamente Básico</td>
+                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/blob/main/Python/1001.%20Extremamente%20B%C3%A1sico/solu%C3%A7%C3%A3o.py">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+	</table>	
+</details>
+<!-- Python -->
+
 <!-- Ruby -->
 <details>
     <summary><strong><Img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/></strong></summary>
@@ -1066,28 +1093,3 @@
         <!-- Praticando com Desafios Intermediários em Ruby -->
     </div>
 </details>
-<!-- Python -->
-<details>
-    <summary><Img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></summary>
- <!-- Introdução a Programação com Python -->
-        <table border=1>
-            <tr>
-                <th colspan="4">Introdução a Programação com Python</th>
-            </tr>
-            <tr>
-                <th colspan="4"></th>
-            </tr>
-            <tr>
-                <th>Etapa</th>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-	    <tr>
-                <td align="center">1</td>
-                <td>Extremamente Básico</td>
-                <td><a href="https://github.com/EriFranca/Repositorio-Treinamento/blob/main/Python/1001.%20Extremamente%20B%C3%A1sico/solu%C3%A7%C3%A3o.py">Código</a></td>
-                <td align="center">✅</td>
-            </tr>
-</details>
-<!-- Python -->
