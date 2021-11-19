@@ -4,7 +4,9 @@
      <Img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
      <Img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
      <Img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+     <Img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
      <Img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>  
+     
   </a>
 </p>  
 <p align="center">
@@ -1064,3 +1066,28 @@
         <!-- Praticando com Desafios Intermediários em Ruby -->
     </div>
 </details>
+<!-- Python -->
+<details>
+    <summary><Img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></summary>
+ <!-- Introdução a Programação com Python -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Introdução a Programação com Python</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+	    <tr>
+                <td align="center">1</td>
+                <td>Extremamente Básico</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+</details>
+<!-- Python -->
