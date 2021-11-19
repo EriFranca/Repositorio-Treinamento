@@ -1,33 +1,21 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/EriFranca/Repositorio-Treinamento)
-![Lines of code](https://img.shields.io/tokei/lines/github/EriFranca/Repositorio-Treinamento)
-![GitHub language count](https://img.shields.io/github/languages/count/EriFranca/Repositorio-Treinamento)
-![GitHub top language](https://img.shields.io/github/languages/top/EriFranca/Repositorio-Treinamento)
-<h1 align="center"><strong>Repositorio Treinamento📚</strong></h1>
+<h1 align="center"><strong>Repositorio Para Estudo📚</strong></h1>
 <p align="center">
-  <a><b>C# | JAVA | JAVASCRIPT | KOTLIN | RUBY </b></a>
+  <a><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+     <Img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+     <Img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+     <Img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+     <Img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>  
+  </a>
 </p>  
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/EriFranca/Repositorio-Treinamento" /> 
     <img src="https://img.shields.io/tokei/lines/github/EriFranca/Repositorio-Treinamento" />  
     <img src="https://img.shields.io/github/languages/count/EriFranca/Repositorio-Treinamento" /> 
     <img src="https://img.shields.io/github/languages/top/EriFranca/Repositorio-Treinamento" /> 
-  <a href="https://github.com/EriFranca/Repositorio-Treinamento/network/members">
-    <img src="https://img.shields.io/github/forks/lucasrmagalhaes/desafios-DIO" /> 
-  </a>
-    
-  <a href="https://github.com/lucasrmagalhaes/desafios-DIO/stargazers">
-    <img src="https://img.shields.io/github/stars/lucasrmagalhaes/desafios-DIO" /> 
-  </a>
-    
-   <a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/lucasrmagalhaes/desafios-DIO" /> 
-  </a>
-</p>
-
-
+</p>  
 <!-- C Sharp -->
 <details>
-    <summary><strong>C#</strong></summary>
+    <summary><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></summary>
     <br />
     <div align="left">
         <!-- Introdução a Programação com C# -->
@@ -423,7 +411,7 @@
 
 <!-- Java -->
 <details>
-    <summary><strong>Java</strong></summary>
+    <summary><strong><Img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></strong></summary>
     <br />
     <div align="left">
         <!-- Ordenação e Filtros em Java -->
@@ -554,7 +542,7 @@
 
 <!-- JavaScript -->
 <details> 
-    <summary><strong>JavaScript</strong></summary>
+    <summary><strong><Img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></strong></summary>
     <br />
     <div align="left">
         <!-- Introdução a Programação -->
@@ -874,7 +862,7 @@
 
 <!-- Kotlin -->
 <details>
-    <summary><strong>Kotlin</strong></summary>
+    <summary><strong><Img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></strong></summary>
     <br />
     <div align="left">
         <!-- Introdução a Programação em Kotlin -->
@@ -992,7 +980,7 @@
 
 <!-- Ruby -->
 <details>
-    <summary><strong>Ruby</strong></summary>
+    <summary><strong><Img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/></strong></summary>
     <br />
     <div align="left">
         <!-- Solucionando Problemas Básicos em Ruby -->
