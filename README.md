@@ -1008,7 +1008,13 @@
 		<td>Área do Circulo</td>
 		<td><a href="https://github.com/EriFranca/Repositorio-Treinamento/blob/main/Python/1002.%20%C3%81rea%20do%20Circulo/solu%C3%A7%C3%A3o.py">Código</a></td>
 		<td align="center">✅</td>
-	    </tr>	    
+	    </tr>
+	    <tr>
+		<td align="center">2</td>
+		<td>Soma Simples</td>
+		<td><a href="https://github.com/EriFranca/Repositorio-Treinamento/blob/main/Python/1003.%20Soma%20Simples/solu%C3%A7%C3%A3o.py">Código</a></td>
+		<td align="center">✅</td>
+	    </tr>	
 	</table>	
 </details>
 <!-- Python -->
