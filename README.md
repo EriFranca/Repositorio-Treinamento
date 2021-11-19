@@ -1010,7 +1010,7 @@
 		<td align="center">✅</td>
 	    </tr>
 	    <tr>
-		<td align="center">2</td>
+		<td align="center">3</td>
 		<td>Soma Simples</td>
 		<td><a href="https://github.com/EriFranca/Repositorio-Treinamento/blob/main/Python/1003.%20Soma%20Simples/solu%C3%A7%C3%A3o.py">Código</a></td>
 		<td align="center">✅</td>
